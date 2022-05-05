@@ -1,5 +1,5 @@
 {
-  "name": "a05",
+  "name": "html",
   "version": "0.5.0",
   "description": "Coinserver API that also serves a single page HTML/CSS/JS browser-based interface.",
   "main": "index.js",
